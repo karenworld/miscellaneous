@@ -1,0 +1,2 @@
+This is a batch file that is created so that I can skirt around the issue of putting yet another JDK in the Windows environment. It makes the JD-GUI JDK compatible and thus able to inovoke it.  
+The environment in my Windows operating system is using Java 17 JD which is not compatible with JD-GUI decompiler which I need to convert a .class back to .java after I accidentally deleted it using rd/s/q .git
